@@ -1,3 +1,4 @@
+***Note : *** The code is in no way completed. Only the skeleton is in place and may change regularly
 <h2>Introduction</h2>
 <span style="font-family: 'Source Sans Pro', Helvetica, sans-serif; font-size: 16px; line-height: 1.5;">Chess is one of the most beautiful and complex board games conceived by humans. It takes great perseverance and determination to build the skill set required to play the game well. What if this inherent complexity of the game is increased just slightly to make the game more interesting without changing it’s essence? This is what ‘2 Layer Chess’ (2LC) tries to accomplish.</span>
 <h2 class="c4 c13"><a name="h.68c2p3twegue"></a><span>How to play?</span></h2>
