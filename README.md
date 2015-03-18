@@ -10,7 +10,7 @@ Chess is one of the most beautiful and complex board games conceived by humans. 
 
 Let’s look at the initial configuration
 
-initial_state
+![Initial state](https://raw.githubusercontent.com/rahular/rahular.github.io/master/res/initial_state.png)
 
 ###Notations
 
